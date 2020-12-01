@@ -1,0 +1,6 @@
+framework module PHSDK {
+  umbrella header "PHSDK.h"
+
+  export *
+  module * { export * }
+}
